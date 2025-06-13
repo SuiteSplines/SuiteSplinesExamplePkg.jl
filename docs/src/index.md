@@ -11,4 +11,5 @@ Documentation for [SuiteSplinesExamplePkg](https://github.com/SuiteSplines/Suite
 
 ```@autodocs
 Modules = [SuiteSplinesExamplePkg]
+Order   = [:function, :type]
 ```
