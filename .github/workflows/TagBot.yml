@@ -27,6 +27,6 @@ jobs:
     steps:
       - uses: JuliaRegistries/TagBot@v1
         with:
+          registry: SuiteSplines/SuiteSplinesRegistry
           token: ${{ secrets.TAGBOT_TOKEN }}
           #ssh: ${{ secrets.DOCUMENTER_KEY }}
-          registry: SuiteSplines/SuiteSplinesRegistry

@@ -1,7 +1,7 @@
 name = "SuiteSplinesExamplePkg"
 uuid = "f85cb439-bc22-49c8-a213-82e476719812"
 authors = ["Michał Mika <michal@mika.sh> and contributors"]
-version = "0.1.9"
+version = "0.1.10"
 
 [compat]
 julia = "1.6.7"
